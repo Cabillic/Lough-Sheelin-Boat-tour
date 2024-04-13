@@ -12,16 +12,30 @@ header {
     box-shadow: 1px 1px 1px 1px blue;
 }
 
+/* Footer */
+
 footer {
     background-color: #010440;
     color: #ffffff;
     width: 100%;
     position: absolute;
     bottom: 0;
-    margin: 0;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
+
+#contact ul {
+    list-style-type: none;
+}
+
+#social-networks ul {
+    list-style-type: none;
+    display: flex;
+    margin: 20px 20px 20px 0;
+    gap: 40px;
+}
+
+
 
 #social-networks i {
     font-size: 150%;
