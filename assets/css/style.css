@@ -22,15 +22,17 @@ body {
 
 /*Header*/
 header {
-    background-color: orange;
+    background-color: #84d7fa;
     z-index: 99;
     position: fixed;
     width: 100%;
+    box-shadow: 0 4px 4px #006eff;
 
 }
 
 h1 {
     font-family: 'Overlock', sans-serif;
+    
 }
 
 /*Main*/
