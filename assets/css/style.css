@@ -27,5 +27,32 @@ main {
 
 /*Footer*/
 footer {
-    background-color: red;
+    background-color: #0a024d;
+    color: #fafafa;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+ /*contact*/
+#contact ul {
+    list-style-type: none;
+}
+
+/*social networks*/
+#social-networks {
+    display: flex;
+    align-items: center;
+}
+
+#social-networks ul {
+    list-style-type: none;  
+    display: flex; 
+    gap: 20px;
+}
+
+
+#social-networks i {
+    color: #fafafa;
+    font-size: 150%;
 }
