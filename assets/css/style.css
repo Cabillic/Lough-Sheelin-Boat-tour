@@ -25,6 +25,10 @@ header {
     background-color: orange;
 }
 
+h1 {
+    font-family: 'Overlock', sans-serif;
+}
+
 /*Main*/
 main {
     background-color: yellow;
