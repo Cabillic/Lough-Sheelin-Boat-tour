@@ -11,6 +11,7 @@
 /* Body general rules */
 body {
     min-height: 100vh;
+    width: auto;
     display: flex;
     flex-direction: column;
     font-family: 'Spinnaker', sans-serif;
@@ -35,10 +36,9 @@ h1 {
 /*Main*/
 main {
     background-color: yellow;
-    height: 100;
     width: auto;
     /*Main takes any surplus space*/
-    flex-grow: 1;
+    flex: 1 0 auto;
 }
 
 /*Footer*/
@@ -70,5 +70,5 @@ footer {
 
 #social-networks i {
     color: #fafafa;
-    font-size: 150%;
+    font-size: 120%;
 }
