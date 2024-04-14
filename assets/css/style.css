@@ -41,7 +41,7 @@ main {
 footer {
     background-color: #0a024d;
     color: #fafafa;
-    height: 80px;
+    height: auto;
     width: 100%;
     display: flex;
     justify-content: space-evenly;
