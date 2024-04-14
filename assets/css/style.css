@@ -11,7 +11,6 @@
 /* Body general rules */
 body {
     min-height: 100vh;
-    max-width: 100%;
     display: flex;
     flex-direction: column;
     font-family: 'Spinnaker', sans-serif;
@@ -23,6 +22,10 @@ body {
 /*Header*/
 header {
     background-color: orange;
+    z-index: 99;
+    position: fixed;
+    width: 100%;
+
 }
 
 h1 {
@@ -33,6 +36,7 @@ h1 {
 main {
     background-color: yellow;
     height: 100;
+    width: auto;
     /*Main takes any surplus space*/
     flex-grow: 1;
 }
@@ -42,7 +46,7 @@ footer {
     background-color: #0a024d;
     color: #fafafa;
     height: auto;
-    width: 100%;
+    width: auto;
     display: flex;
     justify-content: space-evenly;
 }
