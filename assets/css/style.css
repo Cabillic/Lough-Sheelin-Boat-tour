@@ -51,8 +51,14 @@ footer {
     justify-content: space-evenly;
 }
  /*contact*/
+
+#contact {
+    font-size: 80%;
+}
+
 #contact ul {
     list-style-type: none;
+
 }
 
 /*social networks*/
