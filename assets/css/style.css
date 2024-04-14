@@ -4,3 +4,28 @@
     box-sizing:border-box;
 }
 
+/* Body general rules */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+/*Header*/
+header {
+    background-color: orange;
+}
+
+/*Main*/
+main {
+    background-color: yellow;
+    height: 100;
+    /*Main takes any surplus space*/
+    flex-grow: 1;
+}
+
+/*Footer*/
+footer {
+    background-color: red;
+}
