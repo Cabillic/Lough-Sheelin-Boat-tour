@@ -72,12 +72,21 @@ nav {
     display: block;
 }
 
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 150%;
+}
+
 /*Main*/
 main {
     background-color: yellow;
     width: auto;
     /*Main takes any surplus space*/
     flex: 1 0 auto;
+    margin-top: 78px;
 }
 
 /*Footer*/
