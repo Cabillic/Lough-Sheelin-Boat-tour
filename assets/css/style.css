@@ -132,3 +132,24 @@ footer {
     color: #fafafa;
     font-size: 120%;
 }
+
+/* Media query: tablets and larger screens (768px and up) */
+@media screen and (min-width: 768px) {
+    /*header*/
+    nav {
+        display: block;
+        position: relative;
+        width: fit-content;
+        padding-right: 1rem;
+        box-shadow: none;
+    }
+
+    #menu {
+        display: flex;
+        gap: 10px;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+}
