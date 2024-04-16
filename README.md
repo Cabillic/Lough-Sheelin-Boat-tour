@@ -29,3 +29,6 @@ It was developped as part of the first project of the Diploma in Full Stack Soft
 ## Testing
 
 ## Credits
+  * [Freepik.com](https://www.freepik.com) FavIcon taken from Freepik.com design from Mawadee https://www.freepik.com/icon/anchor_1167069
+
+  * [Font awesome](https://fontawesome.com/) Anchor logo taken from Font Awesome
