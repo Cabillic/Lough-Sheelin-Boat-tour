@@ -8,13 +8,13 @@ It was developped as part of the first project of the Diploma in Full Stack Soft
 
 # Content
 
-* [(User Experience)](#ux-user-experience)
-* [(Design)](#design)
-* [(Features)](#features)
-* [(Technologies Used)](#technologies-used)
-* [(Deployment)](#deployment)
-* [(Testing)](#testing)
-* [(Credits)](#credits)
+* [User Experience](#ux-user-experience)
+* [Design](#design)
+* [Features](#features)
+* [Technologies Used](#technologies-used)
+* [Deployment](#deployment)
+* [Testing](#testing)
+* [Credits](#credits)
 
 ## UX (User Experience)
 
@@ -25,6 +25,17 @@ It was developped as part of the first project of the Diploma in Full Stack Soft
 ## Technologies Used
 
 ## Deployment
+  * The website was deployed on GitHub Pages following these steps:
+    
+    1 - Login to Github account
+
+    2 - in Settings, click on "pages" in code and automation section on Left menu
+
+    3 - In the Source section, on the dropdown menu, select "deploy from a branch"
+
+    4 - In the bracnh section, select "Main" on the dropdown menu, and set the folder to "root", then click on Save
+
+    5 - The site is now deployed.
 
 ## Testing
 
