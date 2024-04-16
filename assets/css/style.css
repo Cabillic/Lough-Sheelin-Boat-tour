@@ -43,7 +43,12 @@ header a {
 h1 {
     font-family: 'Overlock', sans-serif;
     color: #1b1b1c;
+
     
+}
+ /* put h1 on 2 different lines */
+.mutiline-title {
+    line-height: 0.8em;  
 }
 
 #menu > li {
