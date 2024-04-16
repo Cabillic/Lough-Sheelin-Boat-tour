@@ -30,9 +30,24 @@ header {
 
 }
 
+header a {
+    /* remove underline for <a> tag descendant of header */
+    text-decoration: none;
+    color: black;
+}
+
 h1 {
     font-family: 'Overlock', sans-serif;
+    color: #1b1b1c;
     
+}
+
+#menu > li {
+    margin-bottom: 8px;
+}
+
+.active {
+    border-bottom: 1px solid;
 }
 
 /*Main*/
