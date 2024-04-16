@@ -2,7 +2,7 @@
 
 Lough Sheelin Boat tour is a website for a fictional tourism company which main purpose is offering boat tour of Lough Sheelin in county Cavan.
 
-This website also makes you discover the local village of Mountnugent and the activities in the surrounding areas.
+This website also makes you discover the local activities in the surrounding areas.
 
 It was developped as part of the first project of the Diploma in Full Stack Software Development (E-commerce Applications) from Code Institute.
 
