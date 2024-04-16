@@ -27,8 +27,9 @@ header {
     position: fixed;
     width: 100%;
     box-shadow: 0 4px 4px #006eff;
+    padding: 0 1rem;
     display: flex;
-    align-items: baseline;
+    align-items: center;
     justify-content: space-evenly;
 
 }
@@ -42,7 +43,6 @@ header a {
 h1 {
     font-family: 'Overlock', sans-serif;
     color: #1b1b1c;
-    padding: 0 1rem;
     
 }
 
