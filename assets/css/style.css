@@ -50,6 +50,17 @@ h1 {
     border-bottom: 1px solid;
 }
 
+/*Navbar styles with dropdown menu */
+nav {
+    position: absolute;
+    background-color: #ffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #2a2a2a;
+    display: none;
+}
+
 /*Main*/
 main {
     background-color: yellow;
