@@ -33,7 +33,7 @@ It was developped as part of the first project of the Diploma in Full Stack Soft
 
     3 - In the Source section, on the dropdown menu, select "deploy from a branch"
 
-    4 - In the bracnh section, select "Main" on the dropdown menu, and set the folder to "root", then click on Save
+    4 - In the branch section, select "Main" on the dropdown menu, and set the folder to "root", then click on Save
 
     5 - The site is now deployed.
 
@@ -43,3 +43,5 @@ It was developped as part of the first project of the Diploma in Full Stack Soft
   * [Freepik.com](https://www.freepik.com) FavIcon taken from Freepik.com design from Mawadee https://www.freepik.com/icon/anchor_1167069
 
   * [Font awesome](https://fontawesome.com/) Anchor logo taken from Font Awesome
+
+  * [Wikimedia.org](https://commons.wikimedia.org/wiki/File:Lough_Sheelin_map.JPG) Map of Lough Sheelin taken from wikimedia, author: Piotr Miskowicz
