@@ -117,10 +117,18 @@ main {
 }
 
 /* Lough sheelin map section */
+
+#lough-map {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 #lough-sheelin-map {
     background: url("../images/Lough_Sheelin_map.jpg") no-repeat center center/cover;
-    height: 500px;
-    
+    height: 60vw;
+    width: 75vw;
+    margin: 20px 0;
 }
 
 /*Footer*/
