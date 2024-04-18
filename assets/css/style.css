@@ -116,7 +116,17 @@ main {
     text-align: center;
 }
 
-/* Lough sheelin map section */
+/* business section */
+
+#business h2 {
+    text-decoration: underline;
+}
+
+/* Lake description section */
+
+#lough h2 {
+    text-decoration: underline;
+}
 
 #lough-map {
     display: flex;
