@@ -128,7 +128,8 @@ main {
     background: url("../images/Lough_Sheelin_map.jpg") no-repeat center center/cover;
     height: 60vw;
     width: 75vw;
-    margin: 20px 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 /*Footer*/
