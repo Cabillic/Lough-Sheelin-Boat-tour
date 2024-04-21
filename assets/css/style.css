@@ -15,9 +15,11 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Spinnaker', sans-serif;
-    color: black;
+    color: black;   
+}
 
-    
+p {
+    line-height: 32px;
 }
 
 /*Header*/
@@ -252,8 +254,12 @@ footer {
         display: flex;
     } 
 
+    #lough-description {
+        margin: auto;
+    }
+
     #lough-sheelin-map {
-        max-height: 600px;
-        max-width: 750px;
+        max-height: 500px;
+        max-width: 650px;
     }
 }
