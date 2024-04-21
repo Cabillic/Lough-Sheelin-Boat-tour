@@ -290,6 +290,8 @@ footer {
         flex-direction: row-reverse;
     }
 
-    
+    #loughcrew-text {
+        padding-left: 20px;
+    }
 
 }
