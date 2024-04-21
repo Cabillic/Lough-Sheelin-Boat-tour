@@ -272,9 +272,22 @@ footer {
 
     /* explore page */
     
+    #crover-house {
+        display: flex;
+    }
+
+    #mountnugent {
+        display: flex;
+    }
+
+    #mullaghmeen {
+        display: flex;
+    }
 
     #loughcrew {
         display: flex;
     }
+
+    
 
 }
