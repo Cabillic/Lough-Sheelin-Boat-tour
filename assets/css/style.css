@@ -126,6 +126,11 @@ main {
 
 #business h2 {
     text-decoration: underline;
+    padding-bottom: 10px;
+}
+
+#about-us {
+    padding-bottom: 20px;
 }
 
 #offer ul {
@@ -142,6 +147,7 @@ main {
 
 #lough h2 {
     text-decoration: underline;
+    padding-bottom: 10px;
 }
 
 #lough-map {
