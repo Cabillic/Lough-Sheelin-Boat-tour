@@ -133,8 +133,8 @@ main {
     padding-bottom: 20px;
 }
 
-#about-us > p {
-    padding-top: 
+.paragraph-space {
+    margin-bottom: 15px;
 }
 
 #offer ul {
