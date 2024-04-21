@@ -33,6 +33,19 @@ h2 {
     padding: 5px 5px;
 }
 
+.picture-centered {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.picture-size {
+    height: 60vw;
+    width: 70vw;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
 /*Header*/
 header {
     background-color: #84d7fa;
