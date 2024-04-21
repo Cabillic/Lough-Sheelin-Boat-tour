@@ -247,6 +247,19 @@ footer {
 /* Media querry: small laptops and larger (992px and up) */
 @media screen and (min-width: 992px) {
 
+    /* general style */
+
+    .max-pic-size {
+        max-height: 500px;
+        max-width: 650px;
+    }
+
+    .auto-margin {
+        margin: auto;
+    }
+    
+    /* general style end */
+
     /* Hover with mouse */
     #menu a:hover { 
         border-bottom: 1px solid #2a2a2a;
@@ -257,12 +270,11 @@ footer {
         display: flex;
     } 
 
-    #lough-description {
-        margin: auto;
+    /* explore page */
+    
+
+    #loughcrew {
+        display: flex;
     }
 
-    #lough-sheelin-map {
-        max-height: 500px;
-        max-width: 650px;
-    }
 }
