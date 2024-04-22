@@ -67,7 +67,7 @@ header a {
     color: black;
 }
 
-h1, h2, h4 {
+h1, h2, h3 {
     font-family: 'Overlock', sans-serif;
     color: #1b1b1c;
     text-transform: uppercase;
@@ -139,7 +139,7 @@ main {
     font-family: 'Spinnaker', sans-serif;
 }
 
-#cover-text > h4 {
+#cover-text > h3 {
     text-align: center;
 }
 
