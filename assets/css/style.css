@@ -135,9 +135,14 @@ main {
     top: 280px;
     left: 20px;
     border-radius: 0 0 40px 40px;
-    padding: 0 20px;
+    padding: 5px 20px;
     font-size: 70%;
     font-family: 'Spinnaker', sans-serif;
+}
+
+#cover-text h2,h3 {
+    color: #17126b;
+    font-weight: 900;
 }
 
 #cover-text > h3 {
