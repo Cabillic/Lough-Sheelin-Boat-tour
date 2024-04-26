@@ -290,6 +290,10 @@ footer {
         flex-direction: row-reverse;
     }
 
+    #mountnugent-text {
+        padding-left: 20px;
+    }
+    
     #mullaghmeen {
         display: flex;
     }
