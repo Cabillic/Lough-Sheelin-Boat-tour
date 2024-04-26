@@ -178,6 +178,7 @@ main {
 footer {
     background-color: #0a024d;
     color: #fafafa;
+    padding: 20px 10px;
     height: auto;
     width: auto;
     display: flex;
