@@ -308,3 +308,15 @@ footer {
     }
 
 }
+
+/* media querry bigger screen size (IMac Pro etc..)(1800px and up)*/
+@media screen and (min-width: 1800px) {
+    body {
+        max-width: 1800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    header {
+        max-width: 1800px;
+    }
+}
