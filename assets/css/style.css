@@ -182,10 +182,16 @@ main {
 }
 
 /*booking form section */
+
+
 form {
-    width: 600px;
+    max-width: 600px;
     margin-left: auto;
     margin-right: auto;
+}
+
+form > h2 {
+    padding-bottom: 20px;
 }
 
 /*Footer*/
