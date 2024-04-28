@@ -53,14 +53,67 @@ This website used water related colours, going from lightblue for the shore to d
 ![colour palette image](assets/readme-images/colours.png)
 
 I used a French grey with subtles notes of blues for the border colours,
-the header represents the Shore of the lake with the pale azure, the box shadow at the bottom of the header is like a wave using brandeis blue. As you go down on the page, the footer represent the deep end of the lake with a Federal blue colour.
+the header represents the Shore of the lake with the pale azure, the box shadow at the bottom of the header is like a wave using brandeis blue.
+
+ As you go down on the page, the footer represent the deep end of the lake with a Federal blue colour.
 Light blue was used for the form to be in harmony with the rest of the website.
 
 ## Fonts :
 
+I have used 2 ocean-like google font for the website with sans-serif:
 
+- Overlock for the general text
+
+- Spinnaker for all the titles
+
+## imagery :
+
+I have used the forest image from [pexel.com](https://www.pexels.com/),
+
+The Lake map and Loughcrew Cairn pictures were taken from wikimedia,
+
+All other pictures (Lough Sheelin, Mountnugent, and Crover house) were taken by myself.
 
 # Features
+
+The site contain three different pages : 
+
+- Landing page (index)
+
+- Explore the area page
+
+- Book a tour page
+
+## Navbar
+
+The Navigation menu was created following the Love Running project, with a burger icon when cliked on gives a dropdown menu for screens smaller than 992px.
+An underline on the menu title in will tell you on which page you are on.
+
+- navbar for laptops
+![Navbar image](assets/readme-images/navbar.png)
+
+- navbar for mobile phones and tablets
+![Navbar image phone and tablet](assets/readme-images/navbar-phone.png)
+
+- expanded navbar for mobile phones and tablets
+![expanded navbar phone and tablet](assets/readme-images/expanded-nav-phone.png)
+
+## Hero image
+
+The Hero image remain the same on all screen sizes
+
+![hero image](assets/readme-images/hero-image.png)
+
+## Cover text
+
+The Cover text is made the shape of a boat with a light brown color and a dark blue text for maximum accessibility,
+The text font-size and boat are made bigger for screens bigger than 768px
+
+- cover text for screen less than 768px
+![cover text small screen](assets/readme-images/cover-text-small.png)
+
+- cover text for screen more than 768px
+![cover text big screen](assets/readme-images/cover-text-big.png)
 
 # Technologies Used
 
