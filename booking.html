@@ -24,7 +24,8 @@
     <!-- Header -->
     <header>
         <a href="index.html">
-            <h1 id="logo" class="multiline-title">Lough Sheelin<br> Boat Tour | Book a tour <i class="fa-solid fa-anchor"></i></h1>
+            <h1 id="logo" class="multiline-title">Lough Sheelin<br> Boat Tour | Book a tour <i
+                    class="fa-solid fa-anchor"></i></h1>
         </a>
         <input type="checkbox" id="nav-toggle" name="nav-toggle">
         <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
@@ -46,14 +47,39 @@
     <!-- Main content -->
     <main>
         <section id="form" class="border">
-            <form>
-                <h2>Book a tour with us</h2>
-                <label for="first-name">First Name</label>
-                <input id ="first-name" name="first-name" type="text" required> <br>
-                <label for="last-name">Last Name</label>
-                <input id ="last-name" name="last-name" type="text" required> <br>
-                <label for="email-address">Email Address</label>
-                <input id ="email-address" name="email-address" type="email" required> <br>
+            <form action="https://formdump.codeinstitute.net" method="POST">
+                    <h2>Book a tour with us</h2>
+                    <label for="first-name">First Name</label>
+                    <input id="first-name" name="first-name" type="text" required> <br>
+
+                    <label for="last-name">Last Name</label>
+                    <input id="last-name" name="last-name" type="text" required> <br>
+
+                    <label for="email-address">Email Address</label>
+                    <input id="email-address" name="email-address" type="email" required> <br>
+
+                    <label for="passengers" class="block-label">Number of Passengers</label>
+            		<select id="passengers" name="passengers" required>
+            			<option value="1">1</option>
+            			<option value="2">2</option>
+            			<option value="3">3</option>
+            			<option value="4">4</option>
+            			<option value="5">5</option>
+            			<option value="6+">6+</option>> 
+                    </select> <br>   
+
+                    <label for="tour-offer">What offer would you like to book?</label>
+                    <input id="tour-offer" list="list-offer" name="tour-offer" required>
+                    <datalist id="list-offer">
+                        <option value="Full Tour">
+                        <option value="2h Tour">
+                        <option value="Boat Rental">
+                    </datalist> <br>
+
+                    <label for="text-area" aria-label="">How can we help?</label><br>
+                    <textarea name="additional-info" id="text-area" rows="6" cols="90" placeholder="Let us know if you require anything"></textarea><br>
+                    <input class="submit-button" type="submit" value="Send">
+                
             </form>
         </section>
         <section id="map-section" class="border">
