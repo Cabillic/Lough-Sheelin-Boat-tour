@@ -115,6 +115,35 @@ The text font-size and boat are made bigger for screens bigger than 768px
 - cover text for screen more than 768px
 ![cover text big screen](assets/readme-images/cover-text-big.png)
 
+## Landing page
+
+The landing page tells you about the family owned business, the offers available and also a quick description and map of the lake, all in a white background for better readability
+
+![landing page](assets/readme-images/landing-page.png)
+
+In small screens, the text will be above the pictures (same for explore page)
+![landing page small screens](assets/readme-images/landing-page-small.png)
+
+## explore page
+
+The explore the area page let you have a quick look at different local tourist attractions, it is the same design as the landing page.
+Of the 4 attractions on the page, two of them have the pictures on the left and text on the right, and opposite for the two other one, to break the monotomy of the page
+
+![explore the area page 1](assets/readme-images/explore-page.png)
+
+## Book a tour page
+
+This page let you book a tour via the form, as well as gives you a google map link.
+I used a lightblue font for the form to break the excessive white background.
+
+![book a tour page](assets/readme-images/booking-page.png)
+
+## Footer 
+
+The Footer gives you some basic contact informations trough the website (phone and email address) as well as links to social medias.
+
+![Footer](assets/readme-images/footer.png)
+
 # Technologies Used
 
 # Deployment
