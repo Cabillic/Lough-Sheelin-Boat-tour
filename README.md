@@ -84,6 +84,12 @@ The site contain three different pages :
 
 - Book a tour page
 
+## Favicon
+
+simple picture of an anchor
+
+![favicon](assets/readme-images/favicon.png)
+
 ## Navbar
 
 The Navigation menu was created following the Love Running project, with a burger icon when cliked on gives a dropdown menu for screens smaller than 992px.
@@ -152,6 +158,32 @@ The Footer gives you some basic contact informations trough the website (phone a
 
 # Technologies Used
 
+## Language used
+
+HTML5 and CSS3 were used for this website.
+
+## Frameworks, Librairies and programs Used
+
+- Google fonts for thew fonts.
+
+- Git for version control
+
+- Github to store, save files and deploy the live website
+
+- Codeanywhere IDE to write the code
+
+- Fontawesome for the anchor icon on the header
+
+- Wikipedia for the pictures descriptions
+
+- Wikimedia for the pictures
+
+- Google dev tools for testing code
+
+- Google lighthouse for overall website score
+
+- W3C validator for validating html and css code
+
 # Deployment
   * The website was deployed on GitHub Pages following these steps:
     
@@ -162,7 +194,7 @@ The Footer gives you some basic contact informations trough the website (phone a
     3 - In the Source section, on the dropdown menu, select "deploy from a branch"
 
     4 - In the branch section, select "Main" on the dropdown menu, and set the folder to "root", then click on Save
-
+ 
     5 - The site is now deployed.
 
 # Testing
