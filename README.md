@@ -20,15 +20,37 @@ Find the link to the live site here: [Lough Sheelin Boat Tour](https://cabillic.
 * [Testing](#testing)
 * [Credits](#credits)
 
-## UX (User Experience)
+# UX (User Experience)
 
-## Design
+Lough Sheelin Boat Tour  primary goal is meant to make you discover the lough itself by beeing able to book a tour of the lake, It will also make you discover the local tourist attractions in the surrounding areas.
 
-## Features
+## User Stories:
 
-## Technologies Used
+### First time user :
 
-## Deployment
+- as a first time user, I want to find informations about Lough Sheelin.
+
+- as a first time user, I want to be able to book a tour of the lake in an easy manner.
+
+- as a first time user, I want to know what kind of offer are available.
+
+- as a first time user, I want to view the location via the google map link.
+
+- as a first time user, I want easy access to contact information via the footer.
+
+### Returning user :
+
+- as a returning user, I would like more information about the surrounding areas via the explore the area page.
+
+- as a returning user, I would like to get more information and pictures via the social media links on the footer.
+
+# Design
+
+# Features
+
+# Technologies Used
+
+# Deployment
   * The website was deployed on GitHub Pages following these steps:
     
     1 - Login to Github account
@@ -41,9 +63,9 @@ Find the link to the live site here: [Lough Sheelin Boat Tour](https://cabillic.
 
     5 - The site is now deployed.
 
-## Testing
+# Testing
 
-## Credits
+# Credits
   * [Freepik.com](https://www.freepik.com) FavIcon taken from Freepik.com design from Mawadee https://www.freepik.com/icon/anchor_1167069
 
   * [Font awesome](https://fontawesome.com/) Anchor logo taken from Font Awesome
