@@ -90,12 +90,15 @@ The Navigation menu was created following the Love Running project, with a burge
 An underline on the menu title in will tell you on which page you are on.
 
 - navbar for laptops
+
 ![Navbar image](assets/readme-images/navbar.png)
 
 - navbar for mobile phones and tablets
+
 ![Navbar image phone and tablet](assets/readme-images/navbar-phone.png)
 
 - expanded navbar for mobile phones and tablets
+
 ![expanded navbar phone and tablet](assets/readme-images/expanded-nav-phone.png)
 
 ## Hero image
@@ -110,9 +113,11 @@ The Cover text is made the shape of a boat with a light brown color and a dark b
 The text font-size and boat are made bigger for screens bigger than 768px
 
 - cover text for screen less than 768px
+
 ![cover text small screen](assets/readme-images/cover-text-small.png)
 
 - cover text for screen more than 768px
+
 ![cover text big screen](assets/readme-images/cover-text-big.png)
 
 ## Landing page
@@ -122,6 +127,7 @@ The landing page tells you about the family owned business, the offers available
 ![landing page](assets/readme-images/landing-page.png)
 
 In small screens, the text will be above the pictures (same for explore page)
+
 ![landing page small screens](assets/readme-images/landing-page-small.png)
 
 ## explore page
