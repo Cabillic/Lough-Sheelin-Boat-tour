@@ -182,7 +182,9 @@ main {
 }
 
 /*booking form section */
-
+#form {
+    display: flex;
+}
 
 form {
     max-width: 600px;
