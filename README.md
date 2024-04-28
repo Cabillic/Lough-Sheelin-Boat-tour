@@ -46,6 +46,15 @@ Lough Sheelin Boat Tour  primary goal is meant to make you discover the lough it
 
 # Design
 
+This website used water related colours, going from lightblue for the shore to darkblue for the deep end of the lake, it has a sober white content with clear borders to make it easy to read.
+
+## Colour scheme: 
+
+| Colour  Hex           | colour                             | description  |
+|-----------------------|------------------------------------|--------------|
+|#b8bfd6                |[](assets/readme-images/b8bfd6.png) |
+
+
 # Features
 
 # Technologies Used
