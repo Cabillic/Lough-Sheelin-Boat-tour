@@ -184,6 +184,7 @@ main {
 /*booking form section */
 #form {
     display: flex;
+    background-color: lightblue;
 }
 
 form {
@@ -192,8 +193,15 @@ form {
     margin-right: auto;
 }
 
-form > h2 {
+form  h2 {
     padding-bottom: 20px;
+}
+
+#map-section h2 {
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+
 }
 
 /*Footer*/
