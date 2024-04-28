@@ -185,6 +185,7 @@ HTML5 and CSS3 were used for this website.
 - W3C validator for validating html and css code
 
 # Deployment
+
   * The website was deployed on GitHub Pages following these steps:
     
     1 - Login to Github account
@@ -199,9 +200,39 @@ HTML5 and CSS3 were used for this website.
 
 # Testing
 
+- The website was continuously tested through different screen sizes with the developper tools. It was also tested on various brand of mobile phones, on a Lenovo tbj606f tablet, and omen hp laptop.
+
+- The website was tested on Google Chrome, mozilla firefox and microsoft edge browsers.
+
+## Html validation testing
+
+ - Landing page
+
+ ![w3c for landing page](assets/readme-images/w3c-landing-page.png)
+
+ - Explore page
+
+ ![w3c for explore page](assets/readme-images/w3c-explore-page.png)
+
+ - Booking page
+
+ ![w3c for booking page](assets/readme-images/w3c-booking-page.png)
+
+ ## CSS validation testing
+
+ Validation for CSS
+
+ ![w3c for CSS](assets/readme-images/w3c-css.png)
+
+ ## Lighthouse testing
+
+ 
+
 # Credits
-  * [Freepik.com](https://www.freepik.com) FavIcon taken from Freepik.com design from Mawadee https://www.freepik.com/icon/anchor_1167069
+- [Freepik.com](https://www.freepik.com) FavIcon taken from Freepik.com design from Mawadee https://www.freepik.com/icon/anchor_1167069
 
-  * [Font awesome](https://fontawesome.com/) Anchor logo taken from Font Awesome
+- [Font awesome](https://fontawesome.com/) Anchor logo taken from Font Awesome
 
-  * [Wikimedia.org](https://commons.wikimedia.org/wiki/File:Lough_Sheelin_map.JPG) Map of Lough Sheelin taken from wikimedia, author: Piotr Miskowicz
+- [Wikimedia.org](https://commons.wikimedia.org/wiki/File:Lough_Sheelin_map.JPG) Map of Lough Sheelin taken from wikimedia, author: Piotr Miskowicz
+
+- The Love Running project for the Header nav and footer
