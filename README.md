@@ -50,9 +50,14 @@ This website used water related colours, going from lightblue for the shore to d
 
 ## Colour scheme: 
 
-| Colour  Hex           | colour                             | description  |
-|-----------------------|------------------------------------|--------------|
-|#b8bfd6                |[](assets/readme-images/b8bfd6.png) |
+![colour palette image](assets/readme-images/colours.png)
+
+I used a French grey with subtles notes of blues for the border colours,
+the header represents the Shore of the lake with the pale azure, the box shadow at the bottom of the header is like a wave using brandeis blue. As you go down on the page, the footer represent the deep end of the lake with a Federal blue colour.
+Light blue was used for the form to be in harmony with the rest of the website.
+
+## Fonts :
+
 
 
 # Features
