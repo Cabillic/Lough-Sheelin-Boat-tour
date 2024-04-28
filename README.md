@@ -6,6 +6,10 @@ This website also makes you discover the local activities in the surrounding are
 
 It was developped as part of the first project of the Diploma in Full Stack Software Development (E-commerce Applications) from Code Institute.
 
+![am i responsive](assets/readme-images/am-i-responsive.png)
+
+Find the link to the live site here: [Lough Sheelin Boat Tour](https://cabillic.github.io/Lough-Sheelin-Boat-tour/)
+
 # Content
 
 * [User Experience](#ux-user-experience)
