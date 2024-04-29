@@ -186,7 +186,7 @@ HTML5 and CSS3 were used for this website.
 
 # Deployment
 
-  * The website was deployed on GitHub Pages following these steps:
+ - The website was deployed on GitHub Pages following these steps:
     
     1 - Login to Github account
 
@@ -197,6 +197,10 @@ HTML5 and CSS3 were used for this website.
     4 - In the branch section, select "Main" on the dropdown menu, and set the folder to "root", then click on Save
  
     5 - The site is now deployed.
+
+- How to fork a repository: [Fork a repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
+
+- How to clone a repository: [Clone a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 # Testing
 
