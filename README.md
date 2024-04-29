@@ -256,10 +256,10 @@ HTML5 and CSS3 were used for this website.
 
  # Bugs and fixes
 
-  - My google map was appearing in French (I was logged in with my French account), I changed the language on the site to rectify this.
+- My google map was appearing in French (I was logged in with my French account), I changed the language on the site to rectify this.
 
-  
- 
+- The lighthouse testing gives be bad 'Best practices' results on the booking page due to the google map link 
+
  # Credits
 
 - [Freepik.com](https://www.freepik.com) FavIcon taken from Freepik.com design from Mawadee https://www.freepik.com/icon/anchor_1167069
@@ -268,7 +268,9 @@ HTML5 and CSS3 were used for this website.
 
 - [Wikimedia.org](https://commons.wikimedia.org/wiki/File:Lough_Sheelin_map.JPG) Map of Lough Sheelin and picture of Loughcrew cairn taken from wikimedia, 
 
-- The Love Running project for the Header nav and footer
+- [Wikipedia.org](https://en.wikipedia.org/wiki/Main_Page) for the descriptions of the pictures
+
+- The Love Running project for the Header Nav and Footer
 
 - The coders coffee house code for the googlemap link
 
