@@ -226,13 +226,52 @@ HTML5 and CSS3 were used for this website.
 
  ## Lighthouse testing
 
- 
+ ### Desktop
 
-# Credits
+ - Landing page desktop
+
+ ![lighthouse landing page desktop](assets/readme-images/lighthouse-index-desktop.png)
+
+ - Explore page desktop
+
+ ![lightouse explore page desktop](assets/readme-images/lighthouse-explore-desktop.png)
+
+ - Booking page desktop
+
+ ![lighthouse booking page desktop](assets/readme-images/lighthouse-booking-desktop.png)
+
+ ### Mobile
+
+ - Landing page mobile
+
+ ![lighthouse landing page mobile](assets/readme-images/lighthouse-index-mobile.png)
+
+ - Explore page mobile
+
+ ![lighthouse explore page mobile](assets/readme-images/lighthouse-explore-mobile.png)
+
+ - Booking page mobile
+
+ ![lighthouse booking page mobile](assets/readme-images/lighthouse-booking-mobile.png)
+
+ # Bugs and fixes
+
+  - My google map was appearing in French (I was logged in with my French account), I changed the language on the site to rectify this.
+
+  
+ 
+ # Credits
+
 - [Freepik.com](https://www.freepik.com) FavIcon taken from Freepik.com design from Mawadee https://www.freepik.com/icon/anchor_1167069
 
 - [Font awesome](https://fontawesome.com/) Anchor logo taken from Font Awesome
 
-- [Wikimedia.org](https://commons.wikimedia.org/wiki/File:Lough_Sheelin_map.JPG) Map of Lough Sheelin taken from wikimedia, author: Piotr Miskowicz
+- [Wikimedia.org](https://commons.wikimedia.org/wiki/File:Lough_Sheelin_map.JPG) Map of Lough Sheelin and picture of Loughcrew cairn taken from wikimedia, 
 
 - The Love Running project for the Header nav and footer
+
+- The coders coffee house code for the googlemap link
+
+- My mentor Brian Macharia for his usefull help and feedback
+
+- Google for all the search i went through 
